@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-https://github.com/aporo4000/qiita-analyzer/tree/develop (自身が書いたコードの参考)
+https://github.com/aporo4000/qiita-analyzer/tree/develop (自分が書いたコードの紹介)
